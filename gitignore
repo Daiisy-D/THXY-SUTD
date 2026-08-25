@@ -1,6 +1,0 @@
-build/
-main
-*.o
-*.a
-*.so
-.vscode/
